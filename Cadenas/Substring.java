@@ -25,9 +25,11 @@ public class Substring {
         }
         System.out.println(total);
 */
+String anio = cadena.substring(0, 4);
+String mes = cadena.substring(5, 7);
+String dia = cadena.substring(8, 10);
 
-     //ARREGLAR
-     //8,10 / 5,7 / 0,4/
+System.out.println(anio + "-" + mes + "-" + dia);
      
         
 
