@@ -1,3 +1,4 @@
+package Proyectos_Varios;
 public class Empleado {
     private  String cedula;
     private  String nombre;

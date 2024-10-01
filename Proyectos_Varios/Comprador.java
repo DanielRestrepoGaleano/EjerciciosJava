@@ -1,3 +1,4 @@
+package Proyectos_Varios;
 public class Comprador {
     private String nombre;
     private String articulo;
