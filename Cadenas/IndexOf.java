@@ -9,7 +9,8 @@ public class IndexOf {
         cadena = teclado.nextLine();
         System.out.println("Digite el valor a buscar en la cadena");
         buscar = teclado.next();
-        System.out.println("La posición del elemento es: " + cadena.indexOf(buscar));
+       // System.out.println("La posición del elemento es: " + cadena.indexOf(buscar));
+        System.out.println(cadena.indexOf(buscar) == -1  ? "No existe el elemento" : "Existe el elemento en posición " + cadena.indexOf(buscar));
 
 
 
