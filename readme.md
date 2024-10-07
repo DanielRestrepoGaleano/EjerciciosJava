@@ -1,4 +1,5 @@
 # Bienvenido
+
 En este repositorio encontrará diferentes archivos de java los cuales podrá tomar para estudiar o revisar su funcionamiento
 
 ## ENUM
@@ -12,6 +13,10 @@ En esta carpeta encontrará más ejemplos mejor desarrollados sobre archivos ENU
 ## PROYECTOS VARIADOS
 
 Es una colección de multiples códigos tanto en java como en python, encontrará cosas como Loggers en java, listas en java y python, etc.
+
+## ENTREGA DE SEGUIMIENTO
+
+este archivo contiene varias clases con ejemplos simples
 
 ###
 
