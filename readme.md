@@ -1,6 +1,6 @@
 # Bienvenido
 
-En este repositorio encontrará diferentes archivos de java los cuales podrá tomar para estudiar o revisar su funcionamiento
+En este repositorio encontrará diferentes archivos de java los cuales podrá tomar para estudiar o revisar su funcionamiento (Muchos de los archivos son tareas por lo que los nombres de algunas carpetas no podrian ser muy intuitivos)
 
 ## ENUM
 
