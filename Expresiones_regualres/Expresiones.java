@@ -40,7 +40,8 @@ public class Expresiones {
                 System.out.println("Estatura ingresada es incorrecta");
             }
         } while (validarEstatura(estaturaAux) == false);
-        
+        estatura = Float.parseFloat(estaturaAux);
+        System.out.println(nombre + " tiene " + edad + " años y mide " + estatura + "mts");
     }
 
     public static boolean validarNombre(String nom) {
