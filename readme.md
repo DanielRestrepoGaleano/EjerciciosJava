@@ -1,7 +1,11 @@
 # Bienvenido
 
 En este repositorio encontrará diferentes archivos de java los cuales podrá tomar para estudiar o revisar su funcionamiento (Muchos de los archivos son tareas por lo que los nombres de algunas carpetas no podrian ser muy intuitivos).
-Puede seguir el siguiente enlace que lo llevará a multiples archivos en google drive con libros en pdf donde verá tecnologías como Vue, Angular, Java, Python entre otros [Enlace](https://drive.google.com/drive/folders/10Ep2bpQNkDP4v9GdE4cnmEHmlg0PRKRW?fbclid=PAAabV0rdsch6Ba2EB1jCHoQ5HvFJolvsw-Xy7K31n_9ljIBatkxtNUIsqe41)
+Puede seguir el siguiente enlace que lo llevará a multiples archivos en google drive con libros en pdf donde verá tecnologías como Vue, Angular, Java, Python entre otros [Enlace drive](https://drive.google.com/drive/folders/10Ep2bpQNkDP4v9GdE4cnmEHmlg0PRKRW?fbclid=PAAabV0rdsch6Ba2EB1jCHoQ5HvFJolvsw-Xy7K31n_9ljIBatkxtNUIsqe41)
+
+## CADENAS
+
+En esta carpeta va a encontrar diferentes ejercicios con cadenas (texto)
 
 ## ENUM
 
@@ -14,6 +18,10 @@ En esta carpeta encontrará más ejemplos mejor desarrollados sobre archivos ENU
 ## PROYECTOS VARIADOS
 
 Es una colección de multiples códigos tanto en java como en python, encontrará cosas como Loggers en java, listas en java y python, etc.
+
+## PROYECTOS VARIOS
+
+En esta carpeta encontrará una colección de archivos con Java POO
 
 ## ENTREGA DE SEGUIMIENTO
 
