@@ -1,0 +1,228 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Archivos",
+            "request": "launch",
+            "mainClass": "Archivos.Archivos",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "Nomina",
+            "request": "launch",
+            "mainClass": "Archivos_ACT.Nomina",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "Secuencia",
+            "request": "launch",
+            "mainClass": "Archivos_ACT.Secuencia",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "CharAt",
+            "request": "launch",
+            "mainClass": "Cadenas.CharAt",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "Comparación",
+            "request": "launch",
+            "mainClass": "Cadenas.Comparación",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "IndexOf",
+            "request": "launch",
+            "mainClass": "Cadenas.IndexOf",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "NUmeroNarcisista",
+            "request": "launch",
+            "mainClass": "Cadenas.NUmeroNarcisista",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "Replace",
+            "request": "launch",
+            "mainClass": "Cadenas.Replace",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "Split",
+            "request": "launch",
+            "mainClass": "Cadenas.Split",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "Substring",
+            "request": "launch",
+            "mainClass": "Cadenas.Substring",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo1",
+            "request": "launch",
+            "mainClass": "ENUM.Ejemplo1",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo2",
+            "request": "launch",
+            "mainClass": "ENUM.Ejemplo2",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "Huesped",
+            "request": "launch",
+            "mainClass": "ENUM_ACT.Huesped",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "EstudianteNotas",
+            "request": "launch",
+            "mainClass": "ExpresionesRegulares_ACT.EstudianteNotas",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "Excepciones",
+            "request": "launch",
+            "mainClass": "Expresiones_regualres.Excepciones",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "Expresiones",
+            "request": "launch",
+            "mainClass": "Expresiones_regualres.Expresiones",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "CifradoCesar",
+            "request": "launch",
+            "mainClass": "Extras.CifradoCesar",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "Veterinaria",
+            "request": "launch",
+            "mainClass": "Parcial_2.Veterinaria",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Proyectos_Varios.Array",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "CalcularAnios",
+            "request": "launch",
+            "mainClass": "Proyectos_Varios.CalcularAnios",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "CentroComercial",
+            "request": "launch",
+            "mainClass": "Proyectos_Varios.CentroComercial",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "DiferenciaHoras",
+            "request": "launch",
+            "mainClass": "Proyectos_Varios.DiferenciaHoras",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "Empresa",
+            "request": "launch",
+            "mainClass": "Proyectos_Varios.Empresa",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "Fechas",
+            "request": "launch",
+            "mainClass": "Proyectos_Varios.Fechas",
+            "projectName": "Fechas_Y_Horas_94e2d1d4"
+        },
+        {
+            "type": "java",
+            "name": "MostrarSaludo",
+            "request": "launch",
+            "mainClass": "Proyectos_Varios.MostrarSaludo",
+            "projectName": "Fechas_Y_Horas_94e2d1d4",
+            "vmArgs": "--module-path \"C:/Program Files/Java/openjfx-17.0.12_windows-x64_bin-sdk/javafx-sdk-17.0.12/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "javaFX.fx.Calculo.src.App",
+            "projectName": "Fechas_Y_Horas_94e2d1d4",
+            "vmArgs": "--module-path \"C:/Program Files/Java/openjfx-17.0.12_windows-x64_bin-sdk/javafx-sdk-17.0.12/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "App(1)",
+            "request": "launch",
+            "mainClass": "javaFX.fx.Tarea.src.App",
+            "projectName": "Fechas_Y_Horas_94e2d1d4",
+            "vmArgs": "--module-path \"C:/Program Files/Java/openjfx-17.0.12_windows-x64_bin-sdk/javafx-sdk-17.0.12/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "App(2)",
+            "request": "launch",
+            "mainClass": "javaFX.fx.saludo.src.App",
+            "projectName": "Fechas_Y_Horas_94e2d1d4",
+            "vmArgs": "--module-path \"C:/Program Files/Java/openjfx-17.0.12_windows-x64_bin-sdk/javafx-sdk-17.0.12/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
